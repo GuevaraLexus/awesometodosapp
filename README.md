@@ -29,6 +29,7 @@ Follow these instructions to set up the project locally on your machine.
 # How to access locally
 - clone the repository
 - go to both client and server and npm install
+- create a database and cluster in MONGODB namely "awesometodosapp"
 - create a .env file to server folder and input the necessary details like the PORT and MONGODB_URI
 - run the server using npm run dev and the client using npm start
 - ENJOY!
