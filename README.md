@@ -2,10 +2,6 @@
 
 Welcome to the Awesome Todos App! This web application allows users to manage their tasks efficiently. Users can create, update, delete, and mark tasks as complete. The application is built with a modern tech stack and deployed on Render.
 
-## Live Demo
-
-Check out the live demo of the application: [Awesome Todos App](https://awesometodosapp-13er.onrender.com)
-
 ## Features
 
 - **Create Todos**: Add new tasks to your todo list.
@@ -19,7 +15,6 @@ Check out the live demo of the application: [Awesome Todos App](https://awesomet
 - **Frontend**: React
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Deployment**: Render
 
 ## Getting Started
 
@@ -30,3 +25,10 @@ Follow these instructions to set up the project locally on your machine.
 - Node.js (v14 or higher)
 - npm (v6 or higher)
 - MongoDB
+
+# How to access locally
+- clone the repository
+- go to both client and server and npm install
+- create a .env file to server folder and input the necessary details like the PORT and MONGODB_URI
+- run the server using npm run dev and the client using npm start
+- ENJOY!
